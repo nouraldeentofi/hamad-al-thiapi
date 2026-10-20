@@ -1,0 +1,7 @@
+# private research notes (contain contact details visible to connections only)
+brief.md
+research/
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
