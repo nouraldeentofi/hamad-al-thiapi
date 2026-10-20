@@ -1,0 +1,278 @@
+# Dr. Hamad Al-Thiapi — full site text (English, then Arabic)
+
+============================================================
+LANGUAGE: en
+============================================================
+
+## Dr. Hamad Al-Thiapi — AI & Digital Transformation Leader
+He turns AI and data in government into measurable results: faster services, leaner operations, and decisions backed by evidence.
+
+### The story, briefly
+It began in Makkah, studying computer engineering at Umm Al-Qura University while working in sales and finance. In government he started as a network engineer, connecting regional branches to headquarters in Riyadh. He was sent abroad twice, to the United States for his master's and to Australia for his Ph.D., and each time he came back to a larger responsibility. Today he leads an Artificial Intelligence department he built from the ground up.
+
+### What he leads
+- AI strategy & governance: From strategy, KPIs and a roadmap to a data warehouse and use cases that reach production.
+- Digital government services: The largest paperless transformation of official correspondence, and e-services brought to beneficiaries on-site.
+- Infrastructure & cloud: A network linking regional branches to headquarters, the primary data center, and the move to the government cloud.
+
+### How he thinks
+- Results you can measure: For him, technology is worth what it changes: a faster service, a leaner operation, a decision grounded in evidence.
+- Evidence before verdict: Faced with bold predictions, he sorts them: what holds, what is possible but not as fast as claimed, and what no evidence supports.
+- Human value moves, it does not vanish: As AI takes on routine work, he sees human value moving to creativity, decision-making, building systems and leadership.
+- Knowledge that serves: He hopes his knowledge and work will benefit his country, Islam and Muslims, and the whole world.
+
+### Recognition
+- 2025 — Best Technology Leader Award: 2nd place across all sectors and regions.
+- 2025 — Consultant Professional Accreditation: From the Saudi Council of Engineers.
+- 2026 — Nominated for an international program: Among government leaders, for the government process reengineering program in Singapore.
+- 2019 — Ideal Teacher (Rose) Award: RMIT University, with a 93.18% teaching score.
+- 2017 — Excellence Award: For running network operations with high reliability.
+- 2016 — Master's with honors: University of Bridgeport, GPA 3.67/4, and membership of Upsilon Pi Epsilon.
+
+## From Makkah to leading AI
+A road with two scholarships abroad and two returns, each one to a larger responsibility.
+
+### The start: engineering and sales at once (Makkah, 2003–2008)
+He studied computer engineering at Umm Al-Qura University while working as a sales specialist and financial accountant at a medical products distributor from 2004 to 2007, handling clients and orders, budgets and financial reports. In the summer of 2007 he interned at Saudi Airlines' main headquarters in Jeddah, supporting systems across the building, including the CEO's office.
+
+### Hajj season: planning under pressure (King Fahad Security College, 2008–2009)
+He earned a diploma in security science with a grade of 94 and worked at the college as a planning and logistics engineer, leading a team responsible for logistics and subsistence for about 200 staff during the Hajj season, planning traffic flow and crowd control, and coordinating several agencies to solve problems in real time.
+
+### Connecting the Kingdom on one network (Riyadh, 2009–2013)
+As a network engineer and project manager in a government entity, he planned and delivered the network extensions that connected all regional branches to headquarters in Riyadh, led the development and operation of the primary data center serving operations across the Kingdom, and prepared tender specifications and evaluated proposals.
+
+### First time abroad (Bridgeport, USA, 2013–2016)
+Sponsored by his employer, he earned a Master of Engineering in Computer Engineering at the University of Bridgeport with honors (GPA 3.67/4) and was invited to join Upsilon Pi Epsilon. He researched networks and embedded digital systems with sensor and Arduino prototypes and published at IEEE conferences, including an intelligent system to run the traffic and pedestrian tunnels of Makkah and Madinah.
+
+### Back to the operations room (Riyadh, 2016–2018)
+He came back as Director of the Network Operations Division, ran it with high reliability and earned the Excellence Award in 2017. He led RFPs from conception to award under government procurement regulations, and delivered telecom circuits with STC, Mobily, ITC and MyPhone, a digital visitor queuing system, and a visual trial system in partnership with the Ministry of Justice.
+
+### Second time abroad: the Ph.D. question (Melbourne, Australia, 2018–2023)
+Sponsored again, he pursued a Ph.D. in Networks and Telecommunications Engineering at RMIT University, within the Next Generation Telecommunications and Networks Research Group supported by the Australian Government and Telstra. He studied the global internet slowdowns caused by BGP convergence delays, proposed an SDN-based solution called MultiState-BGP, and published five peer-reviewed papers. He also taught networking labs and received the Ideal Teacher (Rose) Award in 2019 with a 93.18% teaching score.
+
+### Building AI from the ground up (Riyadh, 2023 – today)
+He returned to establish and lead the Artificial Intelligence department of a government entity: strategy, KPIs and a roadmap, a data warehouse, and use cases for operations, cybersecurity and decision-making. From 2023 to 2025 he also led E-Services & Transactions at the same time.
+
+### Recognition and trust (Riyadh · Singapore, 2025–2026)
+He received the Best Technology Leader Award 2025, 2nd place across all sectors and regions, and the Consultant Professional Accreditation from the Saudi Council of Engineers. In 2026 he was nominated among government leaders for the international government process reengineering program in Singapore.
+
+## From strategy to production
+Three areas he has led in government, held together by one aim, in his words: measurable results, faster services, leaner operations, and decisions backed by evidence.
+
+### Artificial Intelligence — Director of AI Management · 2023 – today
+He established the Artificial Intelligence department of a government entity from the ground up, and leads it from strategy to production.
+Best Technology Leader Award 2025 · 2nd place across all sectors and regions
+- Strategy & KPIs: Built and executed the AI strategy, its KPIs and its roadmap.
+- Data & use cases: Oversaw the data warehouse and delivered use cases for operations, cybersecurity and decision-making.
+- Governance & compliance: Ensured compliance with DGA, SDAIA and NCA requirements and with data governance controls.
+- Partnerships: Built partnerships with government entities and global technology firms to test and adopt new technologies.
+- Government cloud: Technical member of the program moving all applications and systems to the government cloud.
+- Building the team: Mentors a team of AI specialists, data scientists and IT professionals.
+
+### E-Services & Transactions — Director of E-Services & Transactions · 2023–2025
+He led it alongside the AI department, moving correspondence and services into a digital environment that reaches the beneficiary.
+Its work contributed to a top-5 EXPRO efficiency ranking and to a national government digital services award (2023)
+- Going paperless: Led the largest paperless transformation of official correspondence and transactions.
+- Services that come to people: Owned the initiative bringing national government e-services on-site to beneficiaries.
+- Secure digital identity: Owned the secure digital identity initiative for staff facility access.
+- Automating internal services: Digitized and automated internal services, cutting operating costs and turnaround times.
+
+### Infrastructure & networks — Network engineer, then Director of Network Operations · 2009–2018
+Before AI, he built the network: the branch links to headquarters, the data center and day-to-day operations.
+Excellence Award 2017 for running network operations with high reliability
+- A nationwide network: Planned and delivered the network extensions connecting all regional branches to headquarters in Riyadh.
+- The primary data center: Led the development and operation of the primary data center serving operations across the Kingdom.
+- Procurement & delivery: Led RFPs through to award under government procurement rules, delivering on time, within scope and under budget.
+- Telecoms & justice: Delivered telecom circuits with STC, Mobily, ITC and MyPhone, and a visual trial system with the Ministry of Justice.
+
+### Focus areas
+AI strategy & governance • Digital transformation • Data governance & analytics • Cloud migration • Network infrastructure • DGA, SDAIA & NCA compliance • Partnerships with government and global tech firms
+
+## When the road between two networks breaks
+Seven peer-reviewed publications, and a Ph.D. on a question that touches every internet user.
+
+The internet is many independent networks that exchange routes through a protocol called BGP. When a link fails, the news travels from router to router until every network agrees on a new path, a moment called convergence. Until then, data can be delayed or lost.
+For his Ph.D. at RMIT University, Dr. Hamad analyzed this slowdown and proposed MultiState-BGP, an SDN-based way to manage gateways between multiple domains and counter convergence delays.
+
+### Selected publications
+- 2022. MultiState-BGP Manager for Multi-Domain SDN. ITNAC, Wellington, New Zealand
+- 2022. Multidomain SDN-Based Gateways and Border Gateway Protocol. Journal of Computer Networks and Communications, London
+- 2020. Multi-State Border Gateway Protocol for Multi-Domain Software Defined Networking–Based Gateways. 30th ITNAC (IEEE), Melbourne, Australia
+- 2019. Utilising SDN to Counter BGP Convergence Delays. ITNAC, Auckland, New Zealand
+- 2016. An Intelligent System to Control the Operation of Tunnels and Subways: Application in Makkah and Madina Traffic and Pedestrian Tunnels. CT-IETA (IEEE), USA
+- 2016. Wireless Sensor Networks (WSNs). IEEE LISAT, USA
+
+### readers of one of his papers
+One of his papers published in the United States, on wireless sensor networks, their challenges and solutions, has reached nearly 30,000 readers around the world.
+
+### his teaching score at RMIT
+At RMIT University he taught the Enterprise & Cloud Networks and Network Access Systems labs, and received the Ideal Teacher (Rose) Award in 2019 with a 93.18% teaching score.
+
+### Degrees
+- Ph.D., Networks & Telecommunication Engineering — RMIT University, Melbourne, Australia (2018–2023). Sponsored by his employer
+- Master of Engineering, Computer Engineering — University of Bridgeport, USA (2013–2016). Honors, GPA 3.67/4
+- B.Sc. Computer Engineering — Umm Al-Qura University, Makkah (2003–2008). Studied while working
+- Diploma, Security Science — King Fahad Security College, Riyadh (2008–2009). Grade 94
+
+## Contact Dr. Hamad
+He welcomes conversations with technology leaders, government entities and technology firms in the Kingdom on AI, data governance and digital government.
+
+### In brief
+**Who is Dr. Hamad Al-Thiapi?**
+An engineer with a Ph.D. in Networks and Telecommunications Engineering who has led technology in the Saudi government sector for more than 18 years and today leads an Artificial Intelligence department he built from the ground up. He is based in Riyadh.
+
+**What are his areas of expertise?**
+AI strategy and governance, digital transformation, data governance and analytics, cloud migration, network infrastructure, DGA, SDAIA and NCA compliance, and building partnerships.
+
+**Where did he study?**
+A Ph.D. in Networks and Telecommunications Engineering from RMIT University in Australia, a Master of Engineering in Computer Engineering with honors from the University of Bridgeport in the USA, a B.Sc. in Computer Engineering from Umm Al-Qura University, and a diploma in security science from King Fahad Security College.
+
+**What was his Ph.D. about?**
+Improving internet routing performance by integrating Software-Defined Networking (SDN) with BGP, and countering convergence delays with a solution called MultiState-BGP.
+
+**What recognition has he received?**
+The Best Technology Leader Award 2025 (2nd place across all sectors and regions), the Consultant Professional Accreditation from the Saudi Council of Engineers, RMIT University's Ideal Teacher (Rose) Award in 2019, and the Excellence Award in 2017.
+
+**How can I reach him?**
+Through a LinkedIn message from this page.
+
+LinkedIn: https://www.linkedin.com/in/dr-hamad-al-thiapi/
+
+============================================================
+LANGUAGE: ar
+============================================================
+
+## د. حمد الذيابي — قائد في الذكاء الاصطناعي والتحول الرقمي
+يحوّل الذكاء الاصطناعي والبيانات في العمل الحكومي إلى نتائج ملموسة: خدمات أسرع، وتشغيل أكفأ، وقرارات مبنية على الأدلة.
+
+### القصة باختصار
+بدأت الحكاية في مكة: يدرس هندسة الحاسب في جامعة أم القرى، ويعمل في المبيعات والمحاسبة في الوقت نفسه. وفي القطاع الحكومي بدأ مهندسًا للشبكات، يربط فروع المناطق بالمقر الرئيسي في الرياض. ابتُعث مرتين: إلى الولايات المتحدة للماجستير، ثم إلى أستراليا للدكتوراه، وفي كل مرة عاد إلى مسؤولية أكبر. واليوم يقود إدارة للذكاء الاصطناعي أسّسها من الصفر.
+
+### ما يقوده
+- استراتيجية الذكاء الاصطناعي وحوكمته: من الاستراتيجية والمؤشرات وخارطة الطريق، إلى مستودع البيانات وحالات استخدام تصل إلى التشغيل.
+- الخدمات الحكومية الرقمية: أكبر تحوّل للمراسلات الرسمية إلى بيئة بلا ورق، وخدمات إلكترونية تصل إلى المستفيد في موقعه.
+- البنية التحتية والسحابة: شبكة تربط فروع المناطق بالمقر الرئيسي، ومركز البيانات الرئيسي، والانتقال إلى السحابة الحكومية.
+
+### كيف يفكّر
+- النتيجة تُقاس: قيمة التقنية عنده في أثرها: خدمة أسرع، وتشغيل أكفأ، وقرار يستند إلى الدليل.
+- الدليل قبل الحكم: أمام التوقعات الكبيرة يفرز: ما يصحّ، وما يُحتمل لكن ليس بالسرعة المعلنة، وما لا يسنده دليل.
+- قيمة الإنسان تنتقل ولا تختفي: مع أتمتة الأعمال الروتينية، يرى أن قيمة الإنسان تنتقل إلى الإبداع واتخاذ القرار وبناء الأنظمة والقيادة.
+- علمٌ يُنتفع به: يرجو لعلمه وعمله أن ينفعا الوطن والإسلام والمسلمين والعالم أجمع.
+
+### محطات تقدير
+- 2025 — جائزة أفضل قائد تقني: المركز الثاني على مستوى كافة القطاعات والمناطق.
+- 2025 — الاعتماد المهني بدرجة مستشار: من الهيئة السعودية للمهندسين.
+- 2026 — ترشيح لبرنامج دولي: ضمن قيادات الجهات الحكومية لبرنامج إعادة هندسة الإجراءات الحكومية في سنغافورة.
+- 2019 — جائزة المعلّم المثالي (Rose): جامعة RMIT، بتقييم تدريس بلغ 93.18%.
+- 2017 — جائزة التميّز: لإدارة قسم عمليات الشبكات بموثوقية عالية.
+- 2016 — مرتبة الشرف في الماجستير: جامعة بريدجبورت بمعدل 3.67 من 4، وعضوية Upsilon Pi Epsilon.
+
+## من مكة إلى قيادة الذكاء الاصطناعي
+طريق فيه ابتعاثان وعودتان، وبعد كل عودة مسؤولية أكبر.
+
+### البداية: هندسة ومبيعات في آن واحد (مكة المكرمة, 2003–2008)
+درس هندسة الحاسب في جامعة أم القرى، وعمل بالتوازي أخصائيَّ مبيعات ومحاسبًا ماليًا لدى موزّع للمنتجات الطبية بين 2004 و2007: يتابع العملاء والطلبات، ويُعدّ الميزانيات والتقارير المالية. وفي صيف 2007 تدرّب في المقر الرئيسي للخطوط السعودية بجدة على دعم الأنظمة، ومنها مكتب الرئيس التنفيذي.
+
+### موسم الحج: التخطيط تحت الضغط (كلية الملك فهد الأمنية, 2008–2009)
+نال دبلوم العلوم الأمنية بتقدير 94، وعمل في الكلية مهندسًا للتخطيط والإمداد: قاد فريقًا مسؤولًا عن الإمداد والإعاشة لنحو 200 من المنسوبين في موسم الحج، ووضع خططًا لتنظيم الحركة والحشود، ونسّق مع جهات متعددة لحل المشكلات في وقتها.
+
+### ربط المملكة بشبكة واحدة (الرياض, 2009–2013)
+مهندس شبكات ومدير مشاريع في جهة حكومية: خطّط ونفّذ توسعات الشبكة التي ربطت جميع فروع المناطق بالمقر الرئيسي في الرياض، وقاد تطوير مركز البيانات الرئيسي الذي يخدم العمليات في أنحاء المملكة وتشغيله، وأعدّ كراسات الشروط وقيّم العروض.
+
+### الابتعاث الأول (بريدجبورت، الولايات المتحدة, 2013–2016)
+ابتعثته جهة عمله للماجستير في هندسة الحاسبات بجامعة بريدجبورت، فتخرّج بمرتبة الشرف بمعدل 3.67 من 4، ودُعي لعضوية جمعية Upsilon Pi Epsilon. بحث في الشبكات والأنظمة الرقمية المدمجة بنماذج من الحساسات وArduino، ونشر في مؤتمرات IEEE، ومن أبحاثه نظام ذكي لتشغيل أنفاق المشاة والمركبات في مكة المكرمة والمدينة المنورة.
+
+### العودة إلى غرفة العمليات (الرياض, 2016–2018)
+عاد مديرًا لقسم عمليات الشبكات، فأداره بموثوقية عالية ونال جائزة التميّز عام 2017. قاد كراسات طلب العروض من الفكرة حتى الترسية وفق أنظمة المشتريات الحكومية، ونفّذ دوائر الاتصالات مع STC وموبايلي وITC وMyPhone، ونظامًا رقميًا لإدارة انتظار الزوار، ونظامًا للمحاكمات المرئية بالشراكة مع وزارة العدل.
+
+### الابتعاث الثاني: سؤال الدكتوراه (ملبورن، أستراليا, 2018–2023)
+ابتُعث للدكتوراه في هندسة الشبكات والاتصالات بجامعة RMIT، ضمن مجموعة أبحاث الجيل القادم من الاتصالات والشبكات المدعومة من الحكومة الأسترالية وشركة Telstra. درس التباطؤ الذي يصيب الإنترنت عالميًا بسبب تأخر تقارب بروتوكول BGP، واقترح حلًا يعتمد على SDN باسم MultiState-BGP، ونشر خمسة أبحاث محكّمة. ودرّس معامل الشبكات، فنال جائزة المعلّم المثالي (Rose) عام 2019 بتقييم 93.18%.
+
+### تأسيس الذكاء الاصطناعي (الرياض, 2023 – الآن)
+عاد ليؤسس إدارة الذكاء الاصطناعي في جهة حكومية ويقودها: استراتيجية ومؤشرات أداء وخارطة طريق، ومستودع بيانات، وحالات استخدام للتشغيل والأمن السيبراني ودعم القرار. وبين 2023 و2025 قاد في الوقت نفسه إدارة الخدمات والتعاملات الإلكترونية.
+
+### تقدير وثقة (الرياض · سنغافورة, 2025–2026)
+نال جائزة أفضل قائد تقني لعام 2025 بالمركز الثاني على مستوى كافة القطاعات والمناطق، والاعتماد المهني بدرجة مستشار من الهيئة السعودية للمهندسين. وفي 2026 رُشّح ضمن قيادات الجهات الحكومية للبرنامج الدولي لإعادة هندسة الإجراءات الحكومية في سنغافورة.
+
+## من الاستراتيجية إلى التشغيل
+ثلاثة مجالات قادها في القطاع الحكومي، يجمعها هدف واحد كما يصفه: نتائج ملموسة، خدمات أسرع، وتشغيل أكفأ، وقرارات مبنية على الأدلة.
+
+### الذكاء الاصطناعي — مدير إدارة الذكاء الاصطناعي · 2023 – الآن
+أسّس إدارة الذكاء الاصطناعي في جهة حكومية من الصفر، ويقودها من الاستراتيجية إلى التشغيل.
+جائزة أفضل قائد تقني 2025 · المركز الثاني على مستوى كافة القطاعات والمناطق
+- الاستراتيجية والمؤشرات: بنى استراتيجية الذكاء الاصطناعي ومؤشرات أدائها وخارطة طريقها، ونفّذها.
+- البيانات وحالات الاستخدام: أشرف على مستودع البيانات، وقدّم حالات استخدام للتشغيل والأمن السيبراني ودعم القرار.
+- الحوكمة والامتثال: ضمن الامتثال لمتطلبات هيئة الحكومة الرقمية وسدايا والهيئة الوطنية للأمن السيبراني وضوابط حوكمة البيانات.
+- الشراكات: بنى شراكات مع جهات حكومية وشركات تقنية عالمية لتجربة التقنيات الجديدة وتبنّيها.
+- السحابة الحكومية: عضو فني في برنامج نقل جميع التطبيقات والأنظمة إلى السحابة الحكومية.
+- بناء الفريق: يوجّه فريقًا من مختصي الذكاء الاصطناعي وعلماء البيانات ومختصي تقنية المعلومات.
+
+### الخدمات والتعاملات الإلكترونية — مدير إدارة الخدمات والتعاملات الإلكترونية · 2023–2025
+قادها في الوقت نفسه مع إدارة الذكاء الاصطناعي، فانتقلت المراسلات والخدمات إلى بيئة رقمية تصل إلى المستفيد.
+أسهمت أعمالها في المركز الخامس بتقييم هيئة كفاءة الإنفاق والمشاريع الحكومية، وفي جائزة وطنية للخدمات الرقمية الحكومية (2023)
+- بيئة بلا ورق: قاد أكبر تحوّل للمراسلات والتعاملات الرسمية إلى بيئة رقمية بلا ورق.
+- الخدمة تصل إلى المستفيد: قاد مبادرة إيصال الخدمات الحكومية الإلكترونية إلى المستفيدين في مواقعهم.
+- الهوية الرقمية الآمنة: قاد مبادرة الهوية الرقمية الآمنة لدخول المنسوبين إلى المرافق.
+- أتمتة الخدمات الداخلية: رقمن الخدمات الداخلية وأتمتها، فخفّض التكاليف التشغيلية وأوقات الإنجاز.
+
+### البنية التحتية والشبكات — مهندس شبكات ثم مدير قسم عمليات الشبكات · 2009–2018
+قبل الذكاء الاصطناعي بنى الشبكة: ربط الفروع بالمقر، ومركز البيانات، والعمليات اليومية.
+جائزة التميّز 2017 لإدارة عمليات الشبكات بموثوقية عالية
+- شبكة على مستوى المملكة: خطّط ونفّذ توسعات الشبكة التي ربطت جميع فروع المناطق بالمقر الرئيسي في الرياض.
+- مركز البيانات الرئيسي: قاد تطوير مركز البيانات الرئيسي الذي يخدم العمليات في أنحاء المملكة وتشغيله.
+- مشتريات ومشاريع: قاد كراسات طلب العروض حتى الترسية وفق أنظمة المشتريات الحكومية، وسلّم المشاريع في وقتها وضمن نطاقها وأقل من ميزانيتها.
+- الاتصالات والعدالة: نفّذ دوائر الاتصالات مع STC وموبايلي وITC وMyPhone، ونظامًا للمحاكمات المرئية مع وزارة العدل.
+
+### مجالات التركيز
+استراتيجية الذكاء الاصطناعي وحوكمته • التحول الرقمي • حوكمة البيانات وتحليلها • الحوسبة السحابية • البنية التحتية للشبكات • الامتثال لمتطلبات هيئة الحكومة الرقمية وسدايا والأمن السيبراني • الشراكات مع الجهات الحكومية وشركات التقنية العالمية
+
+## حين ينقطع الطريق بين شبكتين
+سبعة أبحاث علمية محكّمة، وأطروحة دكتوراه في سؤال يمسّ كل مستخدم للإنترنت.
+
+الإنترنت شبكات كثيرة مستقلة تتبادل الطرق فيما بينها عبر بروتوكول اسمه BGP. حين يتعطّل رابط، ينتقل الخبر من موجّه إلى آخر حتى تتفق الشبكات كلها على طريق جديد، وتسمّى هذه اللحظة التقارب. وإلى أن يحدث، قد تتأخر البيانات أو تضيع.
+في الدكتوراه بجامعة RMIT حلّل د. حمد هذا التباطؤ، واقترح MultiState-BGP: حلًّا يعتمد على الشبكات المعرّفة بالبرمجيات (SDN) لإدارة البوابات بين النطاقات المتعددة ومواجهة تأخر التقارب.
+
+### من أبحاثه المنشورة
+- 2022. MultiState-BGP Manager for Multi-Domain SDN. مؤتمر ITNAC الدولي، ولنغتون، نيوزيلندا
+- 2022. Multidomain SDN-Based Gateways and Border Gateway Protocol. مجلة Journal of Computer Networks and Communications، لندن
+- 2020. Multi-State Border Gateway Protocol for Multi-Domain Software Defined Networking–Based Gateways. مؤتمر ITNAC الثلاثون (IEEE)، ملبورن، أستراليا
+- 2019. Utilising SDN to Counter BGP Convergence Delays. مؤتمر ITNAC الدولي، أوكلاند، نيوزيلندا
+- 2016. An Intelligent System to Control the Operation of Tunnels and Subways: Application in Makkah and Madina Traffic and Pedestrian Tunnels. مؤتمر CT-IETA (IEEE)، الولايات المتحدة
+- 2016. Wireless Sensor Networks (WSNs). مؤتمر IEEE LISAT، الولايات المتحدة
+
+### قارئ لإحدى أوراقه العلمية
+حققت إحدى أوراقه المنشورة في الولايات المتحدة، عن شبكات الحساسات اللاسلكية وتحدياتها وحلولها، قرابة 30,000 قارئ ومطّلع من أنحاء العالم.
+
+### تقييم تدريسه في جامعة RMIT
+درّس في جامعة RMIT معامل شبكات المؤسسات والسحابة وأنظمة الوصول إلى الشبكات، ونال جائزة المعلّم المثالي (Rose) عام 2019 بتقييم تدريس بلغ 93.18%.
+
+### المؤهلات العلمية
+- دكتوراه الفلسفة، هندسة الشبكات والاتصالات — جامعة RMIT، ملبورن، أستراليا (2018–2023). مبتعث من جهة عمله
+- ماجستير الهندسة، هندسة الحاسبات — جامعة بريدجبورت، الولايات المتحدة (2013–2016). مرتبة الشرف، 3.67 من 4
+- بكالوريوس هندسة الحاسب — جامعة أم القرى، مكة المكرمة (2003–2008). درس وعمل في الوقت نفسه
+- دبلوم العلوم الأمنية — كلية الملك فهد الأمنية، الرياض (2008–2009). بتقدير 94
+
+## تواصل مع د. حمد
+يرحّب بالتواصل مع القادة التقنيين والجهات الحكومية وشركات التقنية في المملكة، في الذكاء الاصطناعي وحوكمة البيانات والحكومة الرقمية.
+
+### باختصار
+**من هو د. حمد الذيابي؟**
+مهندس حاصل على الدكتوراه في هندسة الشبكات والاتصالات، يقود التقنية في القطاع الحكومي بالمملكة منذ أكثر من 18 عامًا، ويقود اليوم إدارة للذكاء الاصطناعي أسّسها من الصفر. مقرّه الرياض.
+
+**ما مجالات خبرته؟**
+استراتيجية الذكاء الاصطناعي وحوكمته، والتحول الرقمي، وحوكمة البيانات وتحليلها، والحوسبة السحابية، والبنية التحتية للشبكات، والامتثال لمتطلبات هيئة الحكومة الرقمية وسدايا والأمن السيبراني، وبناء الشراكات.
+
+**أين درس؟**
+دكتوراه في هندسة الشبكات والاتصالات من جامعة RMIT بأستراليا، وماجستير في هندسة الحاسبات بمرتبة الشرف من جامعة بريدجبورت بالولايات المتحدة، وبكالوريوس هندسة الحاسب من جامعة أم القرى، ودبلوم العلوم الأمنية من كلية الملك فهد الأمنية.
+
+**ما موضوع أطروحة الدكتوراه؟**
+تحسين أداء التوجيه في الإنترنت بدمج الشبكات المعرّفة بالبرمجيات (SDN) مع بروتوكول BGP، ومواجهة تأخر التقارب عبر حلّ اسمه MultiState-BGP.
+
+**ما أبرز ما ناله من تقدير؟**
+جائزة أفضل قائد تقني لعام 2025 بالمركز الثاني على مستوى كافة القطاعات والمناطق، والاعتماد المهني بدرجة مستشار من الهيئة السعودية للمهندسين، وجائزة المعلّم المثالي (Rose) من جامعة RMIT عام 2019، وجائزة التميّز عام 2017.
+
+**كيف أتواصل معه؟**
+عبر رسالة على لينكدإن من هذه الصفحة.
+
+LinkedIn: https://www.linkedin.com/in/dr-hamad-al-thiapi/
+

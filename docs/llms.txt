@@ -1,0 +1,23 @@
+# Dr. Hamad Al-Thiapi (د. حمد الذيابي)
+
+> Dr. Hamad Al-Thiapi, AI and digital transformation leader in the Saudi government sector, with a Ph.D. in Networks & Telecommunications Engineering from RMIT.
+
+Eng. Dr. Hamad Al-Thiapi leads technology in the Saudi government sector (18+ years). Director of Artificial Intelligence Management at a government entity in Riyadh since 2023; also led E-Services & Transactions (2023–2025). Ph.D. in Networks & Telecommunication Engineering (RMIT University, Australia), M.Eng. in Computer Engineering with honors (University of Bridgeport, USA), B.Sc. in Computer Engineering (Umm Al-Qura University). Best Technology Leader Award 2025 (2nd place across all sectors and regions).
+
+## Pages (English)
+- [Home](https://nouraldeentofi.github.io/hamad-al-thiapi/en/): Dr. Hamad Al-Thiapi, AI and digital transformation leader in the Saudi government sector, with a Ph.D. in Networks & Telecommunications Engineering from RMIT.
+- [Journey](https://nouraldeentofi.github.io/hamad-al-thiapi/en/journey.html): The journey of Dr. Hamad Al-Thiapi: from Makkah to leading AI, through a nationwide network and two scholarships abroad.
+- [Impact](https://nouraldeentofi.github.io/hamad-al-thiapi/en/impact.html): What Dr. Hamad Al-Thiapi has led in government: AI strategy and governance, digital services, and network infrastructure.
+- [Research](https://nouraldeentofi.github.io/hamad-al-thiapi/en/research.html): Dr. Hamad Al-Thiapi's research on BGP convergence delays and SDN-based solutions, his IEEE and journal publications, and his degrees.
+- [Contact](https://nouraldeentofi.github.io/hamad-al-thiapi/en/contact.html): Get in touch with Dr. Hamad Al-Thiapi about AI, data governance and digital government.
+
+## الصفحات (العربية)
+- [الرئيسية](https://nouraldeentofi.github.io/hamad-al-thiapi/): د. حمد الذيابي، قائد في الذكاء الاصطناعي والتحول الرقمي بالقطاع الحكومي السعودي، ودكتوراه في هندسة الشبكات والاتصالات من جامعة RMIT.
+- [المسيرة](https://nouraldeentofi.github.io/hamad-al-thiapi/journey.html): مسيرة د. حمد الذيابي: من مكة إلى قيادة الذكاء الاصطناعي، مرورًا بربط فروع المملكة، وابتعاثين إلى الولايات المتحدة وأستراليا.
+- [الأثر](https://nouraldeentofi.github.io/hamad-al-thiapi/impact.html): ما قاده د. حمد الذيابي في العمل الحكومي: استراتيجية الذكاء الاصطناعي وحوكمته، والخدمات الرقمية، والبنية التحتية والشبكات.
+- [البحث](https://nouraldeentofi.github.io/hamad-al-thiapi/research.html): أبحاث د. حمد الذيابي في الشبكات: تأخر تقارب BGP وحلول SDN، وأوراقه في IEEE ومجلات دولية، ومؤهلاته العلمية.
+- [تواصل](https://nouraldeentofi.github.io/hamad-al-thiapi/contact.html): تواصل مع د. حمد الذيابي في الذكاء الاصطناعي وحوكمة البيانات والحكومة الرقمية.
+
+## More
+- [Full text of the site](https://nouraldeentofi.github.io/hamad-al-thiapi/llms-full.txt)
+- [LinkedIn](https://www.linkedin.com/in/dr-hamad-al-thiapi/)
